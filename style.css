@@ -4,7 +4,7 @@
 }
 
 body{
-    background-color: red;
+    background-color: rgb(236, 0, 0);
     overflow: hidden;
 }
 .gameContainer{
@@ -36,7 +36,7 @@ body{
     position: absolute;
 }
 .animateDino {
-    animation: dino 0.6s linear;
+    animation: dino 0.7s linear;
 }
 
 .obstacleAni{
@@ -78,3 +78,4 @@ body{
         left: -10vw;
     }
 }
+
